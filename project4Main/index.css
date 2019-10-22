@@ -1,0 +1,91 @@
+.prout{
+  position: absolute;
+  left: 100px;
+  border: 1px solid #80808026;
+  width: 730px;
+  height: 126px;
+  top: 471px;
+  background-color:gainsboro;
+}
+.prout a{
+  text-decoration: none;
+  color: red;
+}
+.anout{
+  position: absolute;
+  left: 900px;
+  border: 1px solid #80808026;
+  width: 376px;
+  height: 193px;
+  top: 471px;
+  background-color:gainsboro;
+}
+button{
+  color: white;
+background-color:red;
+}
+.skills{
+  position: absolute;
+  left: 700px;
+  border: 1px solid white;
+  width: 500px;
+  height: 429px;
+  top: 800px;
+  background-color:white;
+  padding-left: 10px;
+}
+.animation{
+  position: absolute;
+  top: 1230px;
+  width:1300px;
+  height:60px;
+  left: 30px;
+}
+.aboutfacetext{
+ color: gray;
+ font-family:helvetica;
+}
+
+.aboutface{
+  position: absolute;
+  left: 850px;
+  width: 200px;
+  height: 100px;
+  top: 1450px;
+  padding-left: 5px;
+
+}
+.aboutface a
+{
+  text-decoration: none;
+  color: black;
+}
+.connect{
+  position: absolute;
+  left: 1150px;
+  width: 150px;
+  height: 100px;
+  top: 1450px;
+
+}
+.connecttext{
+  color: gray;
+  font-family:helvetica;
+}
+.face{
+    position: absolute;
+    left: 120px;
+    top: 1450px;
+}
+.face2{
+  position: absolute;
+    left: 550px;
+    top: 1700px;
+}
+.copy
+{
+  position: absolute;
+  left: 430px;
+  top:1800px;
+  color:#e0e0d1;
+}

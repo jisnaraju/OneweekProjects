@@ -1,0 +1,153 @@
+.topimage{
+  position: absolute;
+  height: 357px;
+  width: 1342;
+}
+.javahead{
+      position: absolute;
+      top: 170px;
+      left: 85px;
+      font-family: sans-serif;
+      width: 600px;
+      height: 120px;
+}
+.javahead p{
+  position: absolute;
+  top: 45px;
+  left: 2px;
+  font-size:15px;
+}
+.Apply{
+  position: absolute;
+  top: 170px;
+  left: 800px;
+  font-family: sans-serif;
+  width: 400px;
+  height: 120px;
+
+}
+button{
+  width: 221px;
+  height: 63px;
+  color: white;
+  background-color:#ec0909;;
+  border-radius: 9px;
+  left: 200px;
+}
+.Apexhas{
+  position: absolute;
+  top: 383px;
+  left: 85px;
+  width: 1180px;
+  height: 102px;
+  line-height: 20.3px;
+}
+.table1
+{
+  position: absolute;
+  top: 525px;
+  left: 87px;
+  font-family: sans-serif;
+  width: 400px;
+  height: 196px;
+
+}
+table{
+  width: 400px;
+  cellpadding: 10px;
+  outline-color: black;
+  border-collapse: collapse;
+    border: 1px solid black;
+}
+tr,th,td{
+  outline: thin solid black;
+  border: 1px solid black;
+  border-collapse: collapse;
+  }
+  th{
+    border-color: red;
+  }
+.table2{
+  position: absolute;
+  top: 680px;
+  left: 87px;
+  font-family: sans-serif;
+  width: 300px;
+  height: 120px;
+}
+.sline{
+    position: absolute;
+    top: 800px;
+    left: 87px;
+    color: grey;
+}
+.map{
+  position: absolute;
+  top: 950px;
+  left: 87px;
+}
+.address{
+      position: absolute;
+      top: 950px;
+      left: 724px;
+      height: 100px;
+      width: 360px;
+      line-height: 20.3px;
+    }
+.lasttext{
+     position: absolute;
+     top: 1431px;
+    left: 88px;
+    height: 406px;
+    width: 1068px;
+    line-height: 21.3px;
+}
+.aboutfacetext{
+ color: gray;
+ font-family:helvetica;
+}
+
+.aboutface{
+  position: absolute;
+  left: 802px;
+  width: 200px;
+  height: 100px;
+  top: 1847px;
+  padding-left: 5px;
+
+}
+.aboutface a
+{
+  text-decoration: none;
+  color: black;
+}
+.connect{
+  position: absolute;
+  left: 1095px;
+  width: 150px;
+  height: 100px;
+  top: 1848px;
+}
+.connecttext{
+  color: gray;
+  font-family:helvetica;
+}
+
+.face{
+    position: absolute;
+    position: absolute;
+    left: 89px;
+    top: 1867px;
+}
+.face2{
+  position: absolute;
+  left: 596px;
+  top: 2137px;
+}
+.copy
+{
+  position: absolute;
+  left: 479px;
+  top: 2213px;
+  color:#e0e0d1;
+}

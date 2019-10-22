@@ -1,0 +1,79 @@
+h1{
+  position: absolute;
+  color: red;
+  height: 500px;
+  width: 410px;
+  left: 120px;
+  top: 100px;
+  font-size: 40px;
+  }
+.apexlogo{
+ position: absolute;
+ visibility: visible;
+ left: 120px;
+ top: 1px;}
+ .apexpara{
+   position: absolute;
+   visibility: visible;
+   left:20px;
+   top: 220px;
+   height: 500px;
+   font-style: normal;
+   width: 340px;}
+   h2{
+     position: absolute;
+     visibility: visible;
+     left: 120px;
+     top:360px}
+   .pi{
+     position: absolute;
+     left: 20px;
+     top:10px
+    }
+    .project{
+      position: absolute;
+      visibility: visible;
+      left: 120px;
+      top: 410px;
+      height: 150px;
+      width: 750px;
+      border :1px solid gray;
+      background-color: gainsboro;
+      }
+    h4{
+      position: absolute;
+      left: 220px;
+      top: 0px;
+      height: 150px;
+      width: 500px;
+      }
+      p{
+        position: absolute;
+        left: 220px;
+        top: 50px;
+        height: 150px;
+        width: 500px;
+
+      }
+      .pl {
+        position: absolute;
+        left: 220px;
+        top: 105px;
+        text-decoration: none;
+      }
+      .annountitle{
+        position: absolute;
+        visibility: visible;
+        left: 870px;
+        top:6px;
+        }
+      .Announceborder{
+        position: absolute;
+        visibility: visible;
+        left: 990px;
+        top: 410px;
+        height: 200px;
+        width: 350px;
+        border :1px solid gray;
+        background-color: gainsboro;
+        }
